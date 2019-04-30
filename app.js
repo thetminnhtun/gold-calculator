@@ -16,12 +16,12 @@ var app = new Vue({
     },
     methods: {
         cp() {
-            for (let i = 0; i < 17; i++) {
+            for (let i = 0; i < 16; i++) {
                 this.ps[i] = i;
             }
         },
         cy() {
-            for (let i = 0; i < 9; i++) {
+            for (let i = 0; i < 8; i++) {
                 this.ys[i] = i;
             }
         },

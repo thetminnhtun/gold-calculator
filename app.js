@@ -1,7 +1,7 @@
 var app = new Vue({
     el: '#app',
     data: {
-        ufont: true,
+        ufont: false,
         ps: [],
         ys: [],
         qs: [16, 15, 14, 13, 12],
